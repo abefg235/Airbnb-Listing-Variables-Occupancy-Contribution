@@ -1,5 +1,5 @@
 # What Variables Contribute Most to Airbnb Listings’ Occupancy Rate?
-A portion of a course project in Python. Other parts are not included here because I didn't work on them.
+A portion of a course project from 2019. Other parts are not included here because I didn't work on them.
 
 The objective of this project was to analyze Airbnb property listings to determine which factors most strongly influence occupancy rate.
 
